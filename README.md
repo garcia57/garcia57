@@ -8,6 +8,8 @@ I'm a Product Designer currently contracted with [Medicaidsoft, LLC.](https://ww
 
 Since childhood, I’ve been driven by a passion for simplicity. It started with my attempts to streamline my mom’s PB&J-making technique—much to her annoyance. Today, that same passion fuels my work as I work with clients to turn innovation ideas into practical, market-ready solutions, proving just how far my PB&J roots have taken me (with far less peanut butter on the counter). 🍞
 
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Andy_Portrait.jpg" alt="andyportrait" height="300px"/></a>  &nbsp; &nbsp; &nbsp;
+
 My journey to a Product Designer has been filled with numerous twists and turns as I've gone from project to project, for which I am immensely grateful for. My top 5 favorite projects I have been able to work on are: 
 - Designing over 7+ prototypes, 25+ workflows, 60+ mockup pages, and many wireframes in Figma (constantly iterated until ready to present to stakeholders to save them money by fleshing out how they wanted their software to work exactly).  
 - Creating 20-30 line algorithms from 25 pages of Medicaid law to be implemented in some of Medicaidsoft's software (I had to take a mini vacation after this).
