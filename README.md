@@ -26,7 +26,6 @@ Like My Work?
 ### Languages and Tools
 
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/anaconda-logo.svg" alt="anaconda" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Asana_logo.png" alt="Asana_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/git.svg" alt="git" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jupyter_logo.svg" alt="Jupyter_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Docker_logo.png" alt="Docker_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
@@ -38,6 +37,7 @@ Like My Work?
 <a href="https://posit.co/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/RStudio_Logo.png" alt="RStudio_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/VSCode_Logo.png" alt="VSCode_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.zoho.com/en-in/one/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Zoho_Logo.svg" alt="Zoho_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/asana.png" alt="asana" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 
 
 
