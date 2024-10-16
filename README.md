@@ -23,11 +23,22 @@ Got a question or want to chat? Feel free to reach out to me on my LinkedIn! I'd
 
 Like My Work?
 
-
+### Languages and Tools
 
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/anaconda-logo.svg" alt="anaconda" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/main/assets/Asana_Logo.svg" alt="Asana_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Asana_Logo.png" alt="Asana_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 
+
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Docker_Logo.svg" alt="Docker_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/figma_logo.png" alt="figma_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/git.svg" alt="git" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/GitHub_Logo.png" alt="GitHub_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jira_Logo.png" alt="Jira_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jupyter_logo.svg" alt="Jupyter_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+
+
+
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/AWS_logo.svg" alt="AWS_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 
 ### Talking about Personal Stuff:
 
