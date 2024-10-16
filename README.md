@@ -27,17 +27,17 @@ Like My Work?
 
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/anaconda-logo.svg" alt="anaconda" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Asana_gray_Logo.png" alt="Asana_gray_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/git.svg" alt="git" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jupyter_logo.svg" alt="Jupyter_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Docker_Logo.svg" alt="Docker_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/figma_logo.png" alt="figma_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/AWS_logo.svg" alt="AWS_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/GitHub_Logo.svg" alt="GitHub_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jira_Logo.svg" alt="Jira_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/lucidchart_logo.png" alt="lucidchart_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/RStudio_Logo.png" alt="RStudio_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/VSCode_Logo.png" alt="VSCode_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Zoho_Logo.svg" alt="Zoho_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/git.svg" alt="git" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jupyter_logo.svg" alt="Jupyter_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Docker_Logo.svg" alt="Docker_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/figma_logo.png" alt="figma_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/AWS_logo.svg" alt="AWS_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/GitHub_Logo.svg" alt="GitHub_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jira_Logo.svg" alt="Jira_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.lucidchart.com/pages" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/lucidchart_logo.png" alt="lucidchart_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://posit.co/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/RStudio_Logo.png" alt="RStudio_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/VSCode_Logo.png" alt="VSCode_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.zoho.com/en-in/one/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Zoho_Logo.svg" alt="Zoho_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 
 
 
