@@ -9,7 +9,7 @@ I'm a Product Designer currently contracted with [Medicaidsoft, LLC.](https://ww
 Since childhood, I’ve been driven by a passion for simplicity. It started with my attempts to streamline my mom’s PB&J-making technique—much to her annoyance. Today, that same passion fuels my work as I work with clients to turn innovation ideas into practical, market-ready solutions, proving just how far my PB&J roots have taken me (with far less peanut butter on the counter). 🍞
 
 My journey to a Product Designer has been filled with numerous twists and turns as I've gone from project to project, for which I am immensely grateful for. My top 5 favorite projects I have been able to work on are: 
-- Designing over 15+ prototypes, 25+ workflows, 60+ mockup pages, and many wireframes in Figma (constantly iterated until ready to present to stakeholders to save them money by fleshing out how they wanted their software to work exactly).  
+- Designing over 7+ prototypes, 25+ workflows, 60+ mockup pages, and many wireframes in Figma (constantly iterated until ready to present to stakeholders to save them money by fleshing out how they wanted their software to work exactly).  
 - Creating 20-30 line algorithms from 25 pages of Medicaid law to be implemented in some of Medicaidsoft's software (I had to take a mini vacation after this).
 - Built CEO and Employee Dashboards (data relevant to the employees' department) with information such as tasks remaining, subscription revenue, real-time case tracking, and other lead/case analytics.
 - Builing multiple 300+ Deluge code line functions to connect FluidPay and Zoho Billing (that way the company could take advantage of the lowest fee rates possible and still keep their company workflows)
@@ -26,7 +26,7 @@ Like My Work?
 ### Languages and Tools
 
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/anaconda-logo.svg" alt="anaconda" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Asana_gray_Logo.png" alt="Asana_gray_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Asana_logo.png" alt="Asana_gray_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/git.svg" alt="git" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jupyter_logo.svg" alt="Jupyter_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Docker_Logo.svg" alt="Docker_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
