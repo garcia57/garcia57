@@ -34,18 +34,16 @@ Like My Work?
 <a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/AWS_logo.svg" alt="AWS_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/GitHub_Logo.svg" alt="GitHub_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://asana.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Jira_Logo.svg" alt="Jira_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/lucidchart_logo.png" alt="lucidchart_logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/RStudio_Logo.png" alt="RStudio_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/VSCode_Logo.png" alt="VSCode_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Zoho_Logo.svg" alt="Zoho_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
+
+
 
 <!--
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/R_Logo.svg" alt="R_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
 -->
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/RStudio_Logo.png" alt="RStudio_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/VSCode_Logo.png" alt="VSCode_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://raw.githubusercontent.com/garcia57/garcia57/main/assets/Zoho_Logo.svg" alt="Zoho_Logo" height="48px"/></a>  &nbsp; &nbsp; &nbsp;
-
 <!--
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 -->
